@@ -291,13 +291,13 @@ img {
   z-index: var(--z-back);
 }
 .skills__html {
-  width: 95%;
+  width: 93%;
 }
 .skills__css {
-  width: 85%;
+  width: 77%;
 }
 .skills__js {
-  width: 65%;
+  width: 81%;
 }
 .skills__ux {
   width: 80%;
